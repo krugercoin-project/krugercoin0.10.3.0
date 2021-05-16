@@ -1,0 +1,5 @@
+Building Krugercoin
+
+See doc/build-*.md for instructions on building krugercoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Krugercoin.
